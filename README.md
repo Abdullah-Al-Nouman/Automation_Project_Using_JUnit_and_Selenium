@@ -24,8 +24,8 @@ This project automates web forms and data scraping tasks using **JUnit**, **Sele
 4. After successful submission, assert that the page displays the message: "Thank you for your submission!"
 
 #### 📸 Screenshots:
-- Screenshot of the form submission process and the confirmation message after submission.
-- **Saved in**: `test-results/screenshots/form_submission.png`
+- Screenshot of the Report of the Digital Unites Webform
+
 ![DigitalUnite](https://github.com/user-attachments/assets/e1c6c6a7-186f-4d53-8ae1-86f4c3f3227f)
 
 ---
@@ -48,8 +48,8 @@ This project automates web forms and data scraping tasks using **JUnit**, **Sele
 3. Assert that the registration is successful.
 
 #### 📸 Screenshots:
-- Screenshot of the user registration form.
-- **Saved in**: `test-results/screenshots/user_registration.png`
+- Screenshot of the Report of user registration form.
+
 ![UserRegistration](https://github.com/user-attachments/assets/e6bab85e-dc71-466f-9a80-ffe115fee017)
 
 ---
@@ -62,11 +62,15 @@ This project automates web forms and data scraping tasks using **JUnit**, **Sele
 2. Store the scraped data in a text file.
 
 #### 📸 Screenshots:
-- Screenshot of the scraped table data.
-- **Saved in**: `test-results/screenshots/scraped_data.png`
-![DhakaStockExchange](https://github.com/user-attachments/assets/b9e7c4c3-3dd5-4ef6-829d-b82107524295)
+
+1. **Screenshot of the Report**  
+   ![DhakaStockExchange](https://github.com/user-attachments/assets/b9e7c4c3-3dd5-4ef6-829d-b82107524295)
+
+2. **Screenshot of the Scraped Table Data**  
+   ![DSE](https://github.com/user-attachments/assets/26fd00b6-5ff1-45dc-8ece-edee3571766d)
 
 ---
+
 
 ## ⚙️ Prerequisites
 
