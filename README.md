@@ -66,7 +66,8 @@ This project automates web forms and data scraping tasks using **JUnit**, **Sele
 1. **Screenshot of the Report**  
    ![DhakaStockExchange](https://github.com/user-attachments/assets/b9e7c4c3-3dd5-4ef6-829d-b82107524295)
 
-2. **Screenshot of the Scraped Table Data**  
+2. **Screenshot of the Scraped Table Data**
+   
    ![DSE](https://github.com/user-attachments/assets/26fd00b6-5ff1-45dc-8ece-edee3571766d)
 
 ---
